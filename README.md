@@ -1,2 +1,3 @@
 # GitHub-workshop
-Repository for github workshop
+
+Basic readme file
